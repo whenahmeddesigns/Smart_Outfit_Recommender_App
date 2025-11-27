@@ -1,0 +1,5 @@
+{
+  "name": "Smart Outfit Recommender",
+  "description": "An AI-powered application that suggests the perfect outfit based on your location, local weather conditions, age, and gender using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
